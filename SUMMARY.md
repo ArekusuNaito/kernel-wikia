@@ -13,6 +13,8 @@
 
 ## Characters
 
+- [Delta Dragon](/characters/delta-dragon.md)
+
 ## Events
 
 * [The Shattering](events/the-shattering.md)
