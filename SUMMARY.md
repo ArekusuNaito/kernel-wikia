@@ -1,20 +1,29 @@
 # Table of contents
 
 * [README](README.md)
-* [Entity-Trinity](entity-trinity.md)
-* [Omnivision](omnivision.md)
-* [Universe-0x0](universe-0x0.md)
-* [Home](home.md)
 * [Kernel](kernel.md)
-* [Hero](hero.md)
-* [Instance](instance.md)
-* [Jewel-of-Light](jewel-of-light.md)
-* [The-Knight](the-knight.md)
+* [Omnivision](omnivision.md)
 
 ## Characters
 
-- [Delta Dragon](/characters/delta-dragon.md)
+* [Delta Dragon](characters/delta-dragon.md)
+* [The Knight](characters/the-knight.md)
 
 ## Events
 
 * [The Shattering](events/the-shattering.md)
+
+## Concepts
+
+* [Instance](concepts/instance.md)
+* [Hero](concepts/hero.md)
+* [Entity Trinity](concepts/entity-trinity.md)
+
+## Inventory
+
+* [The Jewel of Light](inventory/jewel-of-light.md)
+
+## Universes
+
+* [Universe 0x0](universes/universe-0x0.md)
+

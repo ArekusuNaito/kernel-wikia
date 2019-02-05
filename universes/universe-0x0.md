@@ -1,6 +1,6 @@
-# Universe-0x0
+# Universe 0x0
 
-```text
+```csharp
 { Invalid Authentication! ~ Please access with a valid user. }
 ```
 

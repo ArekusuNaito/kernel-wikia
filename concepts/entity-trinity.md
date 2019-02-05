@@ -1,4 +1,4 @@
-# Entity-Trinity
+# Entity Trinity
 
 The `Entity Trinity` is what fills a living entity with energy, the more energy the more powerful an entity is. This is composed of:
 

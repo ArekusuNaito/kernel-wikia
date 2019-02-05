@@ -1,8 +1,8 @@
-# The-Knight
+# The Knight
 
 ![The Red Haired Prince of Muspelheim](https://github.com/ArekusuNaito/kernel-wikia/tree/81b3d6743505ee921d658ed53f83bd0e9327814f/images/TheKnight/b.jpg)
 
-_The Knight \(ナイト\)_ is one of the most recurring characters of the series. He is known to be a very cheerful, joyful and emotional person, he's also known because of his alter ego [The Dark Knight](the-knight.md#the-dark-knight), both also known for their long hair. He is currently in Neo Palm City trying to purge the glitch menace that lies there.
+_The Knight \(ナイト, Naito \)_ is one of the most recurring characters of the series. He is known to be a very cheerful, joyful and emotional person, he's also known because of his alter ego [The Dark Knight](the-knight.md#the-dark-knight), both also known for their long hair. He is currently in Neo Palm City trying to purge the glitch menace that lies there.
 
 ## Abilities / Traits
 

@@ -1,6 +1,6 @@
 # Delta Dragon
 
-The Delta Dragon \(Δ Dragon, デルタドラゴン, Derutadoragon\) is the master of the Delta Dimension. The Dragon is Omnipotent, Omniscience and has the power of Omnivision **only** inside the Delta Dimension, if the Dragon is not there he's just a very powerful Dragon. The Delta Dragon serves both _The King_  and _The Queen_ as he refers to them like that.
+The Delta Dragon \(Δ Dragon, デルタドラゴン, Derutadoragon\) is the master of the Delta Dimension. The Dragon is Omnipotent, Omniscience and has the power of Omnivision **only** inside the Delta Dimension, if the Dragon is not there he's just a very powerful Dragon. The Delta Dragon serves both _The King_ and _The Queen_ as he refers to them like that.
 
 ## The Delta Dimension
 

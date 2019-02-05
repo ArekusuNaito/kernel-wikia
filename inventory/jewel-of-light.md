@@ -1,4 +1,4 @@
-# Jewel-of-Light
+# The Jewel of Light
 
 ![](https://github.com/ArekusuNaito/kernel-wikia/tree/81b3d6743505ee921d658ed53f83bd0e9327814f/images/JewelOfLight/a.png)
 
