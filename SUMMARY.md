@@ -4,6 +4,12 @@
 * [Kernel](kernel.md)
 * [Omnivision](omnivision.md)
 
+## Concepts
+
+* [Instance](concepts/instance.md)
+* [Hero](concepts/hero.md)
+* [Entity Trinity](concepts/entity-trinity.md)
+
 ## Characters
 
 * [Delta Dragon](characters/delta-dragon.md)
@@ -12,12 +18,6 @@
 ## Events
 
 * [The Shattering](events/the-shattering.md)
-
-## Concepts
-
-* [Instance](concepts/instance.md)
-* [Hero](concepts/hero.md)
-* [Entity Trinity](concepts/entity-trinity.md)
 
 ## Inventory
 
