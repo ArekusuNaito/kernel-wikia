@@ -8,8 +8,6 @@
 * [Kernel](kernel.md)
 * [Hero](hero.md)
 * [Instance](instance.md)
-* [characters](characters/README.md)
-  * [Delta Dragon](characters/delta-dragon.md)
 * [Jewel-of-Light](jewel-of-light.md)
 * [The-Knight](the-knight.md)
 
