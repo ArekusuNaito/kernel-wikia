@@ -1,10 +1,10 @@
 # Delta Dragon
 
-The Delta Dragon \(Δ Dragon, デルタドラゴン, Derutadoragon\) is the master of the Delta Dimension. The Dragon is Omnipotent, Omniscience and has the power of Omnivision **only** inside the Delta Dimension, if the Dragon is not there he's just a very powerful Dragon. The Delta Dragon serves both _The King_ and _The Queen_ as he refers to them like that.
+The Delta Dragon \(Δ Dragon, デルタドラゴン, Derutadoragon\) is the master of the Delta Dimension. The Dragon is Omnipotent, Omniscient and has the power of Omnivision **only** inside the Delta Dimension, if the Dragon is not there he's just a very powerful Dragon. The Delta Dragon serves both _The King_ and _The Queen_ as he refers to them like that.
 
 ## The Delta Dimension
 
-The Delta Dimension is the realm of the Delta Dragon. It's _dynamic_, as it changes to the Dragon's will. The Dragon can make it incredibly small or as big as another multiverse. The Delta Dimension serves as a Middleware for others to change their location in a instant _even if the Challenger doesn't know doesn't know the exact location of their destination._
+The Delta Dimension is the realm of the Delta Dragon. It's _dynamic_, as it changes to the Dragon's will. The Dragon can make it incredibly small or as big as another multiverse. The Delta Dimension serves as a Middle ware for others to change their location in a instant _even if the Challenger doesn't know doesn't know the exact location of their destination._
 
 ## How to enter the Delta Dimension
 
