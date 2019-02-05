@@ -13,7 +13,8 @@
 * [Jewel-of-Light](jewel-of-light.md)
 * [The-Knight](the-knight.md)
 
+## Characters
+
 ## Events
 
 * [The Shattering](events/the-shattering.md)
-
