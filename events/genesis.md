@@ -32,7 +32,7 @@ For Eons, The Divine Memory kept expanding and adding new creations. _The First 
 
 _The instance and process ratio was incredible, Multiverse would soon be holding almost a thousand of Universes, but with this results, Kernel decided to become the Pivot of Everything, The Core, everything has to be processed by Kernel, being in charge would guarantee that Multiverse could hold an Infinite Number of Universes for all Eternity. Cosmos and Chaos would be in charge of balancing the static and dynamic properties of everything, everything would be in Perfect balance with the Trinity working together._
 
-> _It all seemed as if Kernel was ready for all of this, ready to command everything, starting with Time and Space._
+> _It all seemed as if Kernel was ready for all of this, ready to command everything, starting with Time and Space. The Story goes that Kernel is "Sleeping", that is how everything can be processed without a single mistake. Everything just works..._
 
 _But maybe, the real question is..._
 
