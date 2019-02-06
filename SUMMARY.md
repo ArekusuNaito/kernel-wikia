@@ -17,6 +17,7 @@
 
 ## Events
 
+* [Genesis](events/genesis.md)
 * [The Shattering](events/the-shattering.md)
 
 ## Inventory
