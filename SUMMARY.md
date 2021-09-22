@@ -12,12 +12,18 @@
 
 ## Characters
 
+* [Kernel](characters/kernel/README.md)
+  * [Programs](characters/kernel/programs/README.md)
+    * [Time](characters/kernel/programs/time.md)
+    * [Space](characters/kernel/programs/space.md)
+* [Untitled](characters/untitled.md)
 * [Delta Dragon](characters/delta-dragon.md)
 * [The Knight](characters/the-knight.md)
 
 ## Events
 
-* [Genesis](events/genesis.md)
+* [Genesis](events/genesis/README.md)
+  * [Creation](events/genesis/creation.md)
 * [The Shattering](events/the-shattering.md)
 
 ## Inventory
@@ -27,4 +33,8 @@
 ## Universes
 
 * [Universe 0x0](universes/universe-0x0.md)
+
+## Hardware
+
+* [Untitled](hardware/untitled.md)
 
